@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speed-overshoot/static/css/main.edd56ee9.css",
+    "main.js": "/speed-overshoot/static/js/main.001000c2.js",
+    "static/js/453.739de72e.chunk.js": "/speed-overshoot/static/js/453.739de72e.chunk.js",
+    "index.html": "/speed-overshoot/index.html",
+    "main.edd56ee9.css.map": "/speed-overshoot/static/css/main.edd56ee9.css.map",
+    "main.001000c2.js.map": "/speed-overshoot/static/js/main.001000c2.js.map",
+    "453.739de72e.chunk.js.map": "/speed-overshoot/static/js/453.739de72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd56ee9.css",
+    "static/js/main.001000c2.js"
+  ]
+}
